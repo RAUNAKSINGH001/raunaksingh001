@@ -8,7 +8,7 @@ I'm a Computer Science Engineering student and Full Stack Developer passionate a
 
 I enjoy working across the complete development lifecycle — from designing responsive interfaces and building REST APIs to implementing authentication, database architecture, and deploying applications to the cloud.
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -54,7 +54,6 @@ const raunak = {
 };
 ```
 
----
 
 ## ⚡ What I Do
 
@@ -68,7 +67,7 @@ const raunak = {
 * 🚀 Deploy applications using modern cloud platforms
 * 🐛 Debug, optimize, and improve application performance
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -105,7 +104,7 @@ const raunak = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
----
+
 
 # 🚀 Featured Projects
 
@@ -128,7 +127,7 @@ A MERN-based event booking platform designed to provide users with a complete ev
 
 🔗 **[Live Demo](https://bookmyevent-dun.vercel.app/)**
 
----
+
 
 ## 🧠 Quantiq
 
@@ -150,7 +149,7 @@ A learning platform designed to help developers prepare for Data Structures & Al
 🔗 **[Live Demo](https://quantik-zeta.vercel.app/)**
 🔗 **[GitHub Repository](https://github.com/RAUNAKSINGH001/quantik)**
 
----
+
 
 ## ⚡ Jivra Energy
 
@@ -172,7 +171,7 @@ A responsive business website developed to showcase an energy drink brand, produ
 🔗 **[Live Website](https://www.jivraenergy.in/)**
 🔗 **[GitHub Repository](https://github.com/RAUNAKSINGH001/JIvra)**
 
----
+
 
 # 🏆 Achievements
 
@@ -184,7 +183,7 @@ Collaborated with a team to develop a fully functional web application within a 
 
 Worked as a **Frontend Developer**, developing **10+ responsive React.js components** and collaborating with a **4-member team** to deliver a functional web application within 24 hours.
 
----
+
 
 # 📜 Certifications
 
@@ -209,9 +208,17 @@ Gained knowledge of:
 * Optimization techniques
 * Practical deep learning applications
 
----
 
-# 📊 GitHub Statistics <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAUNAKSINGH001&theme=tokyonight" alt="Raunak Singh GitHub Profile Details" width="100%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RAUNAKSINGH001&theme=tokyonight" alt="GitHub Statistics" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAUNAKSINGH001&theme=tokyonight" alt="Top Languages" width="49%" /> </p> --- # 🏆 GitHub Achievements <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RAUNAKSINGH001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" width="100%" /> </p> --- # 📈 Contribution Activity <p align="center"> <a href="https://github.com/RAUNAKSINGH001"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAUNAKSINGH001&theme=tokyo-night&hide_border=true&area=true&custom_title=Raunak%20Singh's%20Contribution%20Graph" alt="Raunak Singh's Contribution Graph" width="100%" /> </a> </p> --- # 🐍 Contribution Snake <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" /> </picture> </p> ---
+
+# 📊 GitHub Statistics <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAUNAKSINGH001&theme=tokyonight" alt="Raunak Singh GitHub Profile Details" width="100%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RAUNAKSINGH001&theme=tokyonight" alt="GitHub Statistics" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAUNAKSINGH001&theme=tokyonight" alt="Top Languages" width="49%" /> </p> 
+
+ 
+
+
+# 📈 Contribution Activity <p align="center"> <a href="https://github.com/RAUNAKSINGH001"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAUNAKSINGH001&theme=tokyo-night&hide_border=true&area=true&custom_title=Raunak%20Singh's%20Contribution%20Graph" alt="Raunak Singh's Contribution Graph" width="100%" /> </a> </p> 
+
+
+# 🐍 Contribution Snake <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" /> </picture> </p> ---
 
 # 📈 My Developer Journey
 
