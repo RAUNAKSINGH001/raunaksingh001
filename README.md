@@ -211,11 +211,7 @@ Gained knowledge of:
 
 ---
 
-# 📊 GitHub Statistics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RAUNAKSINGH001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUNAKSINGH001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=RAUNAKSINGH001&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" /> </p> ---
-
-# 🐍 Contribution Activity
-
-<p align="center"> <img src="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p> ---
+# 📊 GitHub Statistics <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAUNAKSINGH001&theme=tokyonight" alt="Raunak Singh GitHub Profile Details" width="100%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RAUNAKSINGH001&theme=tokyonight" alt="GitHub Statistics" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAUNAKSINGH001&theme=tokyonight" alt="Top Languages" width="49%" /> </p> --- # 🏆 GitHub Achievements <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RAUNAKSINGH001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" width="100%" /> </p> --- # 📈 Contribution Activity <p align="center"> <a href="https://github.com/RAUNAKSINGH001"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAUNAKSINGH001&theme=tokyo-night&hide_border=true&area=true&custom_title=Raunak%20Singh's%20Contribution%20Graph" alt="Raunak Singh's Contribution Graph" width="100%" /> </a> </p> --- # 🐍 Contribution Snake <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" /> </picture> </p> ---
 
 # 📈 My Developer Journey
 
