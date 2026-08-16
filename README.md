@@ -218,7 +218,7 @@ Gained knowledge of:
 # 📈 Contribution Activity <p align="center"> <a href="https://github.com/RAUNAKSINGH001"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAUNAKSINGH001&theme=tokyo-night&hide_border=true&area=true&custom_title=Raunak%20Singh's%20Contribution%20Graph" alt="Raunak Singh's Contribution Graph" width="100%" /> </a> </p> 
 
 
-# 🐍 Contribution Snake <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" /> </picture> </p> ---
+# 🐍 Contribution Snake <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" /> </picture> </p> 
 
 # 📈 My Developer Journey
 
@@ -296,7 +296,7 @@ I believe good software is a combination of:
 
 </p>
 
----
+
 
 ## ⭐ Thanks for visiting my profile!
 
@@ -313,7 +313,7 @@ while (alive) {
   <b>🚀 Keep Building. Keep Learning. Keep Solving.</b>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAUNAKSINGH001&label=Profile%20Views&color=0e75b6&style=flat" />
