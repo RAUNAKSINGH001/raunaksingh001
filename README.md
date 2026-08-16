@@ -211,33 +211,11 @@ Gained knowledge of:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RAUNAKSINGH001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUNAKSINGH001&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=RAUNAKSINGH001&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
+# 📊 GitHub Statistics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RAUNAKSINGH001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUNAKSINGH001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=RAUNAKSINGH001&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" /> </p> ---
 
 # 🐍 Contribution Activity
 
-<p align="center">
-
-![Snake animation](https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-contribution-grid-snake.svg)
-
-</p>
-
----
+<p align="center"> <img src="https://raw.githubusercontent.com/RAUNAKSINGH001/RAUNAKSINGH001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p> ---
 
 # 📈 My Developer Journey
 
